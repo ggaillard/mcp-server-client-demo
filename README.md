@@ -285,22 +285,12 @@ git push origin feature/nouvelle-fonctionnalite
 - [ ] Dashboard de monitoring
 - [ ] Documentation interactive
 
-## 🏆 Acknowledgments
-
-- [Anthropic](https://anthropic.com) pour le développement de MCP
-- [JSON-RPC 2.0](https://www.jsonrpc.org/) pour le protocole de communication
-- La communauté open-source pour les retours et contributions
 
 ## 📄 Licence
 
 Ce projet est sous licence CC BY-NC-SA 4.0. Voir [LICENSE](LICENSE) pour plus de détails.
 
-## 🔗 Liens utiles
 
-- [📖 Spécification MCP officielle](https://modelcontextprotocol.io)
-- [🏠 Site Anthropic](https://anthropic.com)
-- [📚 Documentation Claude](https://docs.anthropic.com)
-- [💬 Discussions GitHub](https://github.com/votre-username/mcp-file-manager-demo/discussions)
 
 ---
 
